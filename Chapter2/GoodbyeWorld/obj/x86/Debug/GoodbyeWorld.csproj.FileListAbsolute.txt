@@ -1,0 +1,11 @@
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\bin\Debug\GoodbyeWorld.exe
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\bin\Debug\GoodbyeWorld.pdb
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\obj\x86\Debug\MainWindow.baml
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\obj\x86\Debug\MainWindow.g.cs
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\obj\x86\Debug\App.g.cs
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\obj\x86\Debug\GoodbyeWorld_MarkupCompile.cache
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\obj\x86\Debug\GoodbyeWorld.g.resources
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\obj\x86\Debug\GoodbyeWorld.Properties.Resources.resources
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\obj\x86\Debug\GoodbyeWorld.csproj.GenerateResource.Cache
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\obj\x86\Debug\GoodbyeWorld.exe
+C:\TestGit\WPFInAction\Chapter2\GoodbyeWorld\obj\x86\Debug\GoodbyeWorld.pdb
